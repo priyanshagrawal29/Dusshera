@@ -2,5 +2,7 @@
 
 
 Simple and interesting code with output 
+using HTML,CSS AND JS
 
-Jai Mata do👏🤲
+
+Jai Mata di👏🤲
